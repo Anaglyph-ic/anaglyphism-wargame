@@ -1,8 +1,8 @@
 [
   {
-    affilName:"Affiliation Example 1",
-    members:["a wallet address"],
-    wallet:"the execution wallet",
-    contract:"the wallet receiving royalties"
+    "affilName":"Affiliation Example 1",
+    "members":["a wallet address"],
+    "wallet":"the execution wallet",
+    "contract":"the wallet receiving royalties"
   }
 ]
