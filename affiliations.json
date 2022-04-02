@@ -1,7 +1,11 @@
 [
   {
     "affilName":"Glyph Social Club",
-    "members":["tz1fFaDrCytWQiycjWSAfJkyLgQcMMmFEi2y"],
+    "members":[
+      "tz1fFaDrCytWQiycjWSAfJkyLgQcMMmFEi2y",
+      "tz1a38Je66oy9fm2AcxpGL6ULi4HMEzpGd7D"
+      
+              ],
     "wallet":"tz1fFaDrCytWQiycjWSAfJkyLgQcMMmFEi2y",
     "contract":"tz1fFaDrCytWQiycjWSAfJkyLgQcMMmFEi2y"
   },
